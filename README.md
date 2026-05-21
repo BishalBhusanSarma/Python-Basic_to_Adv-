@@ -1,3 +1,4 @@
 # Python-Basic_to_Adv:
 
-## Contains file reading, writing and edit.
+## File reading, writing and edit.
+## OOPs concepts with practice questions.
