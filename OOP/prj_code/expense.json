@@ -1,0 +1,19 @@
+[
+    
+    {
+        "amount": 1100,
+        "reason": "engine oil"
+    },
+    {
+        "amount": 3500,
+        "reason": "air filter"
+    },
+    {
+        "amount": 1100,
+        "reason": "petrol"
+    },
+    {
+        "amount": 780,
+        "reason": "fuel filter"
+    }
+]
